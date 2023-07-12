@@ -4,14 +4,14 @@
     <br>
 
 
-### We can create a Makefile to map the commands that we will use
+### You have a Makefile to assign the commands to use
 <br>
 
 * * This command is to raise the containers and using the -d flag for the detach mode `$ docker-compose up -d` we will use:
 <br>
-    - `$ make up`
+    -  `$ make up`
 <br>
 
  * This command is to close our containers `$ docker-compose down` we will use:
 <br>
-    - `$ make down`
+    -  `$ make down`
